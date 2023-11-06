@@ -2,7 +2,6 @@ import React from 'react';
 
 const Navbar = () => (
   <nav>
-    <input type="checkbox" id="check" />
     <label htmlFor="check" className="checkbtn">
       <a href="https://github.com/Sayak-Bhunia" target="_blank" rel="noopener noreferrer">
         <i className='bx bxl-github bx-md'></i>
